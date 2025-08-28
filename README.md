@@ -1,2 +1,3 @@
 # c-projects
-Basic Projects in C used for initial learning.
+Basic projects in C.
+These projects were made with learning as priority so AI use was highly limited and only used when necessary for understanding / learning new concepts and debugging.
